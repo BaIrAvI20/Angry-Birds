@@ -1,2 +1,2 @@
-# Angry-Birds
-Real world effects in game with physics engine, real world time api to choose background and properties set using JSON object
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
